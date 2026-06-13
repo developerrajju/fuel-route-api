@@ -34,14 +34,8 @@ The goal is to minimize total fuel cost while ensuring the truck can complete th
 ## Project Structure
 
 ```text
-fuel-route-api/
-├── docs/
-├── fuel_service/
-├── config/
-├── tests/
-├── manage.py
-├── requirements.txt
-└── README.md
+<img width="392" height="442" alt="image" src="https://github.com/user-attachments/assets/3c280112-043e-4bbc-b2f3-8602462ea36b" />
+
 ```
 
 ## Setup
